@@ -1,0 +1,21 @@
+* {
+    font-family: "Poppins"
+}
+
+.intro {
+    margin-bottom: 2rem;
+}
+
+.home {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.home > h3, .home > h4 {
+    margin-top: 0;
+}
+
+.introButtons {
+    margin-top: 0.5rem;
+    box-shadow: 0px 0px 0p;
+}
