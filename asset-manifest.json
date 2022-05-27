@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.fd7d9fbb.css",
-    "main.js": "/static/js/main.bdb92874.js",
+    "main.js": "/static/js/main.f5bf72ee.js",
     "static/media/la-bot.jpg": "/static/media/la-bot.ee62a2e1e165ba5364ae.jpg",
     "static/media/portfolio.png": "/static/media/portfolio.fb17847c5bfae35332f9.png",
     "static/media/ebay.png": "/static/media/ebay.96d9e4aa9e5951e1ddf4.png",
     "index.html": "/index.html",
     "main.fd7d9fbb.css.map": "/static/css/main.fd7d9fbb.css.map",
-    "main.bdb92874.js.map": "/static/js/main.bdb92874.js.map"
+    "main.f5bf72ee.js.map": "/static/js/main.f5bf72ee.js.map"
   },
   "entrypoints": [
     "static/css/main.fd7d9fbb.css",
-    "static/js/main.bdb92874.js"
+    "static/js/main.f5bf72ee.js"
   ]
 }
