@@ -12,6 +12,11 @@ import './home.css'
 import { Button, Container, Stack, Typography } from '@mui/material';
 
 const Home = () => {
+
+  const onDownload = () => {
+
+  };
+
   return (
     <div className="home">
         <Container className="intro">
