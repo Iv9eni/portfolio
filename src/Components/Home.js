@@ -14,8 +14,19 @@ import { Button, Container, Stack, Typography } from '@mui/material';
 const Home = () => {
 
   const onDownload = () => {
-
+    const link = document.createElement("a");
+    link.download = "https://raw.githubusercontent.com/Iv9eni/Resume/main/Resume2021.pdf";
+    link.href = "https://raw.githubusercontent.com/Iv9eni/Resume/main/Resume2021.pdf";
+    link.click();
   };
+
+  const onContact = () => {
+    const link = document.createElement("a");
+    link.download = "https://raw.githubusercontent.com/Iv9eni/Resume/main/Resume2021.pdf";
+    link.href = "https://raw.githubusercontent.com/Iv9eni/Resume/main/Resume2021.pdf";
+    link.click();
+  };
+
 
   return (
     <div className="home">
@@ -27,8 +38,8 @@ const Home = () => {
             justifyContent="center"
             spacing={1}
             className="introButtons">
-            <Button variant="contained" size="small">Resume</Button>
-            <Button variant="outlined" size="small">Contact</Button>
+            <Button onClick={onDownload} variant="contained" size="small">Resume</Button>
+            <Button key="Email" component="a" href="mailto:ivgeni.darinski@hotmail.com" variant="outlined" size="small">Contact</Button>
           </Stack>
         </Container>
         <ProjectList />
