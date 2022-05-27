@@ -36,7 +36,7 @@ const Home = () => {
           <Stack 
             direction="row" 
             justifyContent="center"
-            spacing={1}
+            spacing={3.5}
             className="introButtons">
             <Button onClick={onDownload} variant="contained" size="small">Resume</Button>
             <Button key="Email" component="a" href="mailto:ivgeni.darinski@hotmail.com" variant="outlined" size="small">Contact</Button>

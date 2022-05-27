@@ -19,7 +19,7 @@ import {
 const ProjectList = () => {
   return (
     <Container>
-        <Stack justifyContent="center" alignItems="center" direction={{ xs: 'column', md: 'row'}} spacing={2}>
+        <Stack justifyContent="center" alignItems="center" direction={{ xs: 'column', md: 'row'}} spacing={4}>
           <ProjectTile projectName="Merchant Tool" cardImg={EbayImg} html css php sql
             description="User can create, manage, edit, and delete database entries such as customers, products, and orders through a UI created with html and css. Users can also create relationships within the database between customers and orders. Users can view all the customers and edit their attributes such as the name, phone number, and location. All entries were stored on a mySQL database."
           />
