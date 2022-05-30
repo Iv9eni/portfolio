@@ -13,7 +13,7 @@ export const projectData = [
             selenium: false,
             reactjs: false
         },
-        page: '1',
+        page: 'admintools',
         active: true
     },
     {
@@ -30,7 +30,7 @@ export const projectData = [
             selenium: false,
             reactjs: true
         },
-        page: '2',
+        page: 'la-bot',
         active: true
     },
 ]

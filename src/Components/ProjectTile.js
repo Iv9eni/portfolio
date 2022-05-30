@@ -21,7 +21,8 @@ const ProjectTile = (props) => {
   const goToPage = () => {
     const origin = window.location.origin;
     const link = document.createElement("a");
-    link.href = origin + "/project/" + props.projectPage;
+    //link.href = origin + "/project/" + props.projectPage;
+    link.href = "https://www.github.com/Iv9eni/" + props.projectPage;
     link.click();
   }
 
