@@ -33,6 +33,7 @@ const Home = () => {
         <Container className="intro">
           <h3>Ivgeni Darinski</h3>
           <Typography>Welcome to my Project Archive</Typography>
+          <span class="madeWith">made with reactjs and mui</span>
           <Stack 
             direction="row" 
             justifyContent="center"
@@ -42,7 +43,7 @@ const Home = () => {
             <Button key="Email" component="a" href="mailto:ivgeni.darinski@hotmail.com" variant="outlined" size="small">Contact</Button>
           </Stack>
         </Container>
-        <ProjectList />
+        <ProjectList styles={{marginBottom: 3}} />
     </div>
   )
 }
