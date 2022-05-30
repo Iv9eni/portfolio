@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b6e590f.css",
-    "main.js": "/static/js/main.d349066a.js",
+    "main.css": "/static/css/main.f733df23.css",
+    "main.js": "/static/js/main.ca7dde55.js",
+    "static/js/38.f1526c00.chunk.js": "/static/js/38.f1526c00.chunk.js",
+    "static/js/635.a90c1439.chunk.js": "/static/js/635.a90c1439.chunk.js",
+    "static/js/2.10c2b1a6.chunk.js": "/static/js/2.10c2b1a6.chunk.js",
+    "static/js/416.21375fac.chunk.js": "/static/js/416.21375fac.chunk.js",
+    "static/js/92.045df7c8.chunk.js": "/static/js/92.045df7c8.chunk.js",
     "static/media/la-bot.jpg": "/static/media/la-bot.ee62a2e1e165ba5364ae.jpg",
     "static/media/portfolio.png": "/static/media/portfolio.fb17847c5bfae35332f9.png",
     "static/media/ebay.png": "/static/media/ebay.96d9e4aa9e5951e1ddf4.png",
+    "static/media/admintools-gif.mp4": "/static/media/admintools-gif.1c87a0e11d02dc23d357.mp4",
     "index.html": "/index.html",
-    "main.5b6e590f.css.map": "/static/css/main.5b6e590f.css.map",
-    "main.d349066a.js.map": "/static/js/main.d349066a.js.map"
+    "main.f733df23.css.map": "/static/css/main.f733df23.css.map",
+    "main.ca7dde55.js.map": "/static/js/main.ca7dde55.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b6e590f.css",
-    "static/js/main.d349066a.js"
+    "static/css/main.f733df23.css",
+    "static/js/main.ca7dde55.js"
   ]
 }

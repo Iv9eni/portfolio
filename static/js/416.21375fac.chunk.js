@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkexperiment_portfolio=self.webpackChunkexperiment_portfolio||[]).push([[416],{416:function(e,t,p){e.exports=p.p+"static/media/la-bot.ee62a2e1e165ba5364ae.jpg"}}]);
