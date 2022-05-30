@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ivgenidarinski.com/static/css/main.f733df23.css",
-    "main.js": "/ivgenidarinski.com/static/js/main.57aebf82.js",
-    "static/js/38.f1526c00.chunk.js": "/ivgenidarinski.com/static/js/38.f1526c00.chunk.js",
-    "static/js/635.a90c1439.chunk.js": "/ivgenidarinski.com/static/js/635.a90c1439.chunk.js",
-    "static/js/416.21375fac.chunk.js": "/ivgenidarinski.com/static/js/416.21375fac.chunk.js",
-    "static/media/la-bot.jpg": "/ivgenidarinski.com/static/media/la-bot.ee62a2e1e165ba5364ae.jpg",
-    "static/media/ebay.png": "/ivgenidarinski.com/static/media/ebay.96d9e4aa9e5951e1ddf4.png",
-    "static/media/admintools-gif.mp4": "/ivgenidarinski.com/static/media/admintools-gif.1c87a0e11d02dc23d357.mp4",
-    "index.html": "/ivgenidarinski.com/index.html",
-    "main.f733df23.css.map": "/ivgenidarinski.com/static/css/main.f733df23.css.map",
-    "main.57aebf82.js.map": "/ivgenidarinski.com/static/js/main.57aebf82.js.map"
+    "main.css": "/static/css/main.f733df23.css",
+    "main.js": "/static/js/main.47f64ccf.js",
+    "static/js/38.f1526c00.chunk.js": "/static/js/38.f1526c00.chunk.js",
+    "static/js/635.a90c1439.chunk.js": "/static/js/635.a90c1439.chunk.js",
+    "static/js/416.21375fac.chunk.js": "/static/js/416.21375fac.chunk.js",
+    "static/media/la-bot.jpg": "/static/media/la-bot.ee62a2e1e165ba5364ae.jpg",
+    "static/media/ebay.png": "/static/media/ebay.96d9e4aa9e5951e1ddf4.png",
+    "static/media/admintools-gif.mp4": "/static/media/admintools-gif.1c87a0e11d02dc23d357.mp4",
+    "index.html": "/index.html",
+    "main.f733df23.css.map": "/static/css/main.f733df23.css.map",
+    "main.47f64ccf.js.map": "/static/js/main.47f64ccf.js.map"
   },
   "entrypoints": [
     "static/css/main.f733df23.css",
-    "static/js/main.57aebf82.js"
+    "static/js/main.47f64ccf.js"
   ]
 }
